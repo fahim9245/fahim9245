@@ -3,14 +3,10 @@
 💻 Full Stack Developer  
 🚀 Currently learning AI and scalable backend systems  
 🌱 Passionate about coding and building impactful projects 
-**Fun fact:** I Love Tech 
-
-
 📫 Reach me: ahamadfahim62@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahim00091) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fahimahmad09/) 
-
 
 <!-- Snake Game Repo View -->
 
