@@ -3,6 +3,9 @@
 💻 Full Stack Developer  
 🚀 Currently learning AI and scalable backend systems  
 🌱 Passionate about coding and building impactful projects 
+
+
+
 📫 Reach me: ahamadfahim62@gmail.com
 
 ## 🌐 Socials:
